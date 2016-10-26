@@ -1,0 +1,10 @@
+qsub -cwd -q ionode.q -pe OpenMP 1 -m ae -M yanj@gis.a-star.edu.sg -l mem_free=10G,h_rt=5:0:0 /mnt/projects/yanj/hcc/HPVsra.download/job.SRA189003/downLoad_SRR1611048.sh
+qsub -cwd -q ionode.q -pe OpenMP 1 -m ae -M yanj@gis.a-star.edu.sg -l mem_free=10G,h_rt=5:0:0 /mnt/projects/yanj/hcc/HPVsra.download/job.SRA189003/downLoad_SRR1611047.sh
+qsub -cwd -q ionode.q -pe OpenMP 1 -m ae -M yanj@gis.a-star.edu.sg -l mem_free=10G,h_rt=5:0:0 /mnt/projects/yanj/hcc/HPVsra.download/job.SRA189003/downLoad_SRR1611046.sh
+qsub -cwd -q ionode.q -pe OpenMP 1 -m ae -M yanj@gis.a-star.edu.sg -l mem_free=10G,h_rt=5:0:0 /mnt/projects/yanj/hcc/HPVsra.download/job.SRA189003/downLoad_SRR1611045.sh
+qsub -cwd -q ionode.q -pe OpenMP 1 -m ae -M yanj@gis.a-star.edu.sg -l mem_free=10G,h_rt=5:0:0 /mnt/projects/yanj/hcc/HPVsra.download/job.SRA189003/downLoad_SRR1611044.sh
+qsub -cwd -q ionode.q -pe OpenMP 1 -m ae -M yanj@gis.a-star.edu.sg -l mem_free=10G,h_rt=5:0:0 /mnt/projects/yanj/hcc/HPVsra.download/job.SRA189003/downLoad_SRR1611043.sh
+qsub -cwd -q ionode.q -pe OpenMP 1 -m ae -M yanj@gis.a-star.edu.sg -l mem_free=10G,h_rt=5:0:0 /mnt/projects/yanj/hcc/HPVsra.download/job.SRA189003/downLoad_SRR1611042.sh
+qsub -cwd -q ionode.q -pe OpenMP 1 -m ae -M yanj@gis.a-star.edu.sg -l mem_free=10G,h_rt=5:0:0 /mnt/projects/yanj/hcc/HPVsra.download/job.SRA189003/downLoad_SRR1611041.sh
+qsub -cwd -q ionode.q -pe OpenMP 1 -m ae -M yanj@gis.a-star.edu.sg -l mem_free=10G,h_rt=5:0:0 /mnt/projects/yanj/hcc/HPVsra.download/job.SRA189003/downLoad_SRR1611040.sh
+qsub -cwd -q ionode.q -pe OpenMP 1 -m ae -M yanj@gis.a-star.edu.sg -l mem_free=10G,h_rt=5:0:0 /mnt/projects/yanj/hcc/HPVsra.download/job.SRA189003/downLoad_SRR1611039.sh
